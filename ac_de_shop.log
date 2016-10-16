@@ -1,0 +1,1659 @@
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 21
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47161 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 331 texinfos to 250
+Reduced 9 texdatas to 8 (207 bytes to 163)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 328 portalclusters
+ 958 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 209 visible clusters (0.00%)
+Total clusters visible: 61682
+Average clusters visible: 188
+Building PAS...
+Average clusters audible: 310
+visdatasize:28284  compressed from 31488
+writing e:\github\de_mall\ac_de_shop.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1192 faces
+365721 square feet [52663924.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1192 patches before subdivision
+28506 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2847548, max 548
+transfer lists:  21.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(95692, 48376, 24612)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23859, 4947, 935)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7845, 592, 43)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3011, 83, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1263, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(562, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(122, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0067 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             940/65536        7520/524288   ( 1.4%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              1561/65536       18732/786432   ( 2.4%) 
+nodes                  675/65536       21600/2097152  ( 1.0%) 
+texinfos               250/12288       18000/884736   ( 2.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1192/65536       66752/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              512/65536       28672/3670016  ( 0.8%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists        1192/0            4768/0        ( 0.0%) 
+leaves                 679/65536       21728/2097152  ( 1.0%) 
+leaffaces             1347/65536        2694/131072   ( 2.1%) 
+leafbrushes            336/65536         672/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             7628/512000      30512/2048000  ( 1.5%) 
+edges                 4157/256000      16628/1024000  ( 1.6%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1324824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28284/16777216 ( 0.2%) 
+entdata               [variable]        5851/393216   ( 1.5%) 
+LDR ambient table      679/65536        2716/262144   ( 1.0%) 
+HDR ambient table      679/65536        2716/262144   ( 1.0%) 
+LDR leaf ambient      3116/65536       87248/1835008  ( 4.8%) 
+HDR leaf ambient       679/65536       19012/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       47161/4194304  ( 1.1%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3202
+Writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1192 faces
+365721 square feet [52663924.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1192 patches before subdivision
+28506 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2847548, max 548
+transfer lists:  21.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(95692, 48377, 24613)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23859, 4947, 936)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7845, 592, 43)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3011, 83, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1263, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(562, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(122, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             940/65536        7520/524288   ( 1.4%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              1561/65536       18732/786432   ( 2.4%) 
+nodes                  675/65536       21600/2097152  ( 1.0%) 
+texinfos               250/12288       18000/884736   ( 2.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1192/65536       66752/3670016  ( 1.8%) 
+hdr faces             1192/65536       66752/3670016  ( 1.8%) 
+origfaces              512/65536       28672/3670016  ( 0.8%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists        1192/0            4768/0        ( 0.0%) 
+leaves                 679/65536       21728/2097152  ( 1.0%) 
+leaffaces             1347/65536        2694/131072   ( 2.1%) 
+leafbrushes            336/65536         672/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             7628/512000      30512/2048000  ( 1.5%) 
+edges                 4157/256000      16628/1024000  ( 1.6%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights         18/8192         1800/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1324824/0        ( 0.0%) 
+HDR lightdata         [variable]     1324824/0        ( 0.0%) 
+visdata               [variable]       28284/16777216 ( 0.2%) 
+entdata               [variable]        5851/393216   ( 1.5%) 
+LDR ambient table      679/65536        2716/262144   ( 1.0%) 
+HDR ambient table      679/65536        2716/262144   ( 1.0%) 
+LDR leaf ambient      3116/65536       87248/1835008  ( 4.8%) 
+HDR leaf ambient      3116/65536       87248/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       47161/4194304  ( 1.1%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3202
+Writing e:\github\de_mall\ac_de_shop.bsp
+12 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47161 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 331 texinfos to 250
+Reduced 9 texdatas to 8 (207 bytes to 163)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 328 portalclusters
+ 958 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 209 visible clusters (0.00%)
+Total clusters visible: 61682
+Average clusters visible: 188
+Building PAS...
+Average clusters audible: 310
+visdatasize:28284  compressed from 31488
+writing e:\github\de_mall\ac_de_shop.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1192 faces
+365721 square feet [52663924.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1192 patches before subdivision
+28506 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2847548, max 548
+transfer lists:  21.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(96526, 49592, 26016)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23902, 5027, 1030)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7842, 597, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3009, 83, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1262, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(561, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(122, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0069 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             940/65536        7520/524288   ( 1.4%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              1561/65536       18732/786432   ( 2.4%) 
+nodes                  675/65536       21600/2097152  ( 1.0%) 
+texinfos               250/12288       18000/884736   ( 2.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1192/65536       66752/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              512/65536       28672/3670016  ( 0.8%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists        1192/0            4768/0        ( 0.0%) 
+leaves                 679/65536       21728/2097152  ( 1.0%) 
+leaffaces             1347/65536        2694/131072   ( 2.1%) 
+leafbrushes            336/65536         672/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             7628/512000      30512/2048000  ( 1.5%) 
+edges                 4157/256000      16628/1024000  ( 1.6%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1324824/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28284/16777216 ( 0.2%) 
+entdata               [variable]        5840/393216   ( 1.5%) 
+LDR ambient table      679/65536        2716/262144   ( 1.0%) 
+HDR ambient table      679/65536        2716/262144   ( 1.0%) 
+LDR leaf ambient      3089/65536       86492/1835008  ( 4.7%) 
+HDR leaf ambient       679/65536       19012/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       47161/4194304  ( 1.1%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3202
+Writing e:\github\de_mall\ac_de_shop.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1192 faces
+365721 square feet [52663924.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1192 patches before subdivision
+28506 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2847548, max 548
+transfer lists:  21.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(96527, 49592, 26016)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(23902, 5027, 1030)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7842, 597, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3009, 83, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1262, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(561, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(122, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(59, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(28, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0067 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             940/65536        7520/524288   ( 1.4%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              1561/65536       18732/786432   ( 2.4%) 
+nodes                  675/65536       21600/2097152  ( 1.0%) 
+texinfos               250/12288       18000/884736   ( 2.0%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1192/65536       66752/3670016  ( 1.8%) 
+hdr faces             1192/65536       66752/3670016  ( 1.8%) 
+origfaces              512/65536       28672/3670016  ( 0.8%) 
+facebrushes              4/0               8/0        ( 0.0%) 
+facebrushlists        1192/0            4768/0        ( 0.0%) 
+leaves                 679/65536       21728/2097152  ( 1.0%) 
+leaffaces             1347/65536        2694/131072   ( 2.1%) 
+leafbrushes            336/65536         672/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             7628/512000      30512/2048000  ( 1.5%) 
+edges                 4157/256000      16628/1024000  ( 1.6%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights         18/8192         1800/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1233/65536        2466/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1324824/0        ( 0.0%) 
+HDR lightdata         [variable]     1324824/0        ( 0.0%) 
+visdata               [variable]       28284/16777216 ( 0.2%) 
+entdata               [variable]        5840/393216   ( 1.5%) 
+LDR ambient table      679/65536        2716/262144   ( 1.0%) 
+HDR ambient table      679/65536        2716/262144   ( 1.0%) 
+LDR leaf ambient      3089/65536       86492/1835008  ( 4.7%) 
+HDR leaf ambient      3089/65536       86492/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       47161/4194304  ( 1.1%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3202
+Writing e:\github\de_mall\ac_de_shop.bsp
+12 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 23
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 417 texinfos to 296
+Reduced 13 texdatas to 11 (343 bytes to 245)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 374 portalclusters
+1140 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 402 visible clusters (0.00%)
+Total clusters visible: 78119
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 356
+visdatasize:36264  compressed from 35904
+writing e:\github\de_mall\ac_de_shop.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1335 faces
+366115 square feet [52720600.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1335 patches before subdivision
+28605 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2903619, max 574
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(96975, 50239, 26470)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24595, 5843, 1721)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8178, 991, 356)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3181, 291, 150)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1354, 124, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(612, 64, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(287, 35, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 20, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(68, 11, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(34, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(17, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(9, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1023/65536        8184/524288   ( 1.6%) 
+planes                 848/65536       16960/1310720  ( 1.3%) 
+vertexes              1710/65536       20520/786432   ( 2.6%) 
+nodes                  752/65536       24064/2097152  ( 1.1%) 
+texinfos               296/12288       21312/884736   ( 2.4%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1335/65536       74760/3670016  ( 2.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              550/65536       30800/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1335/0            5340/0        ( 0.0%) 
+leaves                 756/65536       24192/2097152  ( 1.2%) 
+leaffaces             1539/65536        3078/131072   ( 2.3%) 
+leafbrushes            414/65536         828/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8484/512000      33936/2048000  ( 1.7%) 
+edges                 4605/256000      18420/1024000  ( 1.8%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1401/65536        2802/131072   ( 2.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1343060/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6062/393216   ( 1.5%) 
+LDR ambient table      756/65536        3024/262144   ( 1.2%) 
+HDR ambient table      756/65536        3024/262144   ( 1.2%) 
+LDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+HDR leaf ambient       756/65536       21168/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149430/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3620
+Writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1335 faces
+366115 square feet [52720600.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1335 patches before subdivision
+28605 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2903619, max 574
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(96974, 50238, 26469)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24595, 5843, 1721)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8178, 991, 356)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3181, 291, 150)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1354, 124, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(612, 64, 36)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(287, 35, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(138, 20, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(68, 11, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(34, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(17, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(9, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1023/65536        8184/524288   ( 1.6%) 
+planes                 848/65536       16960/1310720  ( 1.3%) 
+vertexes              1710/65536       20520/786432   ( 2.6%) 
+nodes                  752/65536       24064/2097152  ( 1.1%) 
+texinfos               296/12288       21312/884736   ( 2.4%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1335/65536       74760/3670016  ( 2.0%) 
+hdr faces             1335/65536       74760/3670016  ( 2.0%) 
+origfaces              550/65536       30800/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1335/0            5340/0        ( 0.0%) 
+leaves                 756/65536       24192/2097152  ( 1.2%) 
+leaffaces             1539/65536        3078/131072   ( 2.3%) 
+leafbrushes            414/65536         828/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8484/512000      33936/2048000  ( 1.7%) 
+edges                 4605/256000      18420/1024000  ( 1.8%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights         18/8192         1800/819200   ( 0.2%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1401/65536        2802/131072   ( 2.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1343060/0        ( 0.0%) 
+HDR lightdata         [variable]     1343060/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6062/393216   ( 1.5%) 
+LDR ambient table      756/65536        3024/262144   ( 1.2%) 
+HDR ambient table      756/65536        3024/262144   ( 1.2%) 
+LDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+HDR leaf ambient      3326/65536       93128/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149430/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3620
+Writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 24
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 417 texinfos to 296
+Reduced 13 texdatas to 11 (300 bytes to 216)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 374 portalclusters
+1131 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 344 visible clusters (0.00%)
+Total clusters visible: 77969
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 356
+visdatasize:36264  compressed from 35904
+writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1331 faces
+366334 square feet [52752116.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1331 patches before subdivision
+28653 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2912252, max 587
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(97177, 50490, 26724)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24664, 5918, 1791)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8217, 1035, 396)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3209, 324, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1374, 149, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(626, 81, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(296, 47, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(144, 28, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(36, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0069 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1015/65536        8120/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1712/65536       20544/786432   ( 2.6%) 
+nodes                  754/65536       24128/2097152  ( 1.2%) 
+texinfos               296/12288       21312/884736   ( 2.4%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1331/65536       74536/3670016  ( 2.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              549/65536       30744/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1331/0            5324/0        ( 0.0%) 
+leaves                 758/65536       24256/2097152  ( 1.2%) 
+leaffaces             1525/65536        3050/131072   ( 2.3%) 
+leafbrushes            419/65536         838/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8457/512000      33828/2048000  ( 1.7%) 
+edges                 4585/256000      18340/1024000  ( 1.8%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1428/65536        2856/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1336320/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6062/393216   ( 1.5%) 
+LDR ambient table      758/65536        3032/262144   ( 1.2%) 
+HDR ambient table      758/65536        3032/262144   ( 1.2%) 
+LDR leaf ambient      3330/65536       93240/1835008  ( 5.1%) 
+HDR leaf ambient       758/65536       21224/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149388/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3605
+Writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1331 faces
+366334 square feet [52752116.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1331 patches before subdivision
+28653 patches after subdivision
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2912252, max 587
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(97177, 50489, 26723)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24664, 5918, 1791)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8217, 1035, 396)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3209, 324, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1374, 149, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(626, 81, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(296, 47, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(144, 28, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(36, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(5, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1015/65536        8120/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1712/65536       20544/786432   ( 2.6%) 
+nodes                  754/65536       24128/2097152  ( 1.2%) 
+texinfos               296/12288       21312/884736   ( 2.4%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1331/65536       74536/3670016  ( 2.0%) 
+hdr faces             1331/65536       74536/3670016  ( 2.0%) 
+origfaces              549/65536       30744/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1331/0            5324/0        ( 0.0%) 
+leaves                 758/65536       24256/2097152  ( 1.2%) 
+leaffaces             1525/65536        3050/131072   ( 2.3%) 
+leafbrushes            419/65536         838/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8457/512000      33828/2048000  ( 1.7%) 
+edges                 4585/256000      18340/1024000  ( 1.8%) 
+LDR worldlights         18/8192         1800/819200   ( 0.2%) 
+HDR worldlights         18/8192         1800/819200   ( 0.2%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1428/65536        2856/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1336320/0        ( 0.0%) 
+HDR lightdata         [variable]     1336320/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6062/393216   ( 1.5%) 
+LDR ambient table      758/65536        3032/262144   ( 1.2%) 
+HDR ambient table      758/65536        3032/262144   ( 1.2%) 
+LDR leaf ambient      3330/65536       93240/1835008  ( 5.1%) 
+HDR leaf ambient      3330/65536       93240/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149388/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3605
+Writing e:\github\de_mall\ac_de_shop.bsp
+13 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (50945 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 410 texinfos to 295
+Reduced 11 texdatas to 10 (245 bytes to 201)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 357 portalclusters
+1059 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 239 visible clusters (0.00%)
+Total clusters visible: 76022
+Average clusters visible: 212
+Building PAS...
+Average clusters audible: 340
+visdatasize:33306  compressed from 34272
+writing e:\github\de_mall\ac_de_shop.bsp
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1258 faces
+366079 square feet [52715492.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1258 patches before subdivision
+28700 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2909055, max 578
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98240, 50349, 26560)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25201, 5726, 1602)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8530, 926, 300)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3394, 255, 122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1482, 105, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(689, 54, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(166, 17, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(44, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(23, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(12, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0077 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                138/8192         1656/98304    ( 1.7%) 
+brushsides            1009/65536        8072/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1663/65536       19956/786432   ( 2.5%) 
+nodes                  718/65536       22976/2097152  ( 1.1%) 
+texinfos               295/12288       21240/884736   ( 2.4%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1258/65536       70448/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              547/65536       30632/3670016  ( 0.8%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists        1258/0            5032/0        ( 0.0%) 
+leaves                 722/65536       23104/2097152  ( 1.1%) 
+leaffaces             1430/65536        2860/131072   ( 2.2%) 
+leafbrushes            355/65536         710/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8036/512000      32144/2048000  ( 1.6%) 
+edges                 4369/256000      17476/1024000  ( 1.7%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1251/65536        2502/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1329004/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       33306/16777216 ( 0.2%) 
+entdata               [variable]        6122/393216   ( 1.6%) 
+LDR ambient table      722/65536        2888/262144   ( 1.1%) 
+HDR ambient table      722/65536        2888/262144   ( 1.1%) 
+LDR leaf ambient      3202/65536       89656/1835008  ( 4.9%) 
+HDR leaf ambient       722/65536       20216/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       50945/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3338
+Writing e:\github\de_mall\ac_de_shop.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1258 faces
+366079 square feet [52715492.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1258 patches before subdivision
+28700 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2909055, max 578
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(98240, 50350, 26560)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25201, 5726, 1602)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8530, 926, 300)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3394, 255, 122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1482, 105, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(689, 54, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(333, 30, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(166, 17, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(44, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(23, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(12, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(6, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                138/8192         1656/98304    ( 1.7%) 
+brushsides            1009/65536        8072/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1663/65536       19956/786432   ( 2.5%) 
+nodes                  718/65536       22976/2097152  ( 1.1%) 
+texinfos               295/12288       21240/884736   ( 2.4%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1258/65536       70448/3670016  ( 1.9%) 
+hdr faces             1258/65536       70448/3670016  ( 1.9%) 
+origfaces              547/65536       30632/3670016  ( 0.8%) 
+facebrushes              6/0              12/0        ( 0.0%) 
+facebrushlists        1258/0            5032/0        ( 0.0%) 
+leaves                 722/65536       23104/2097152  ( 1.1%) 
+leaffaces             1430/65536        2860/131072   ( 2.2%) 
+leafbrushes            355/65536         710/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8036/512000      32144/2048000  ( 1.6%) 
+edges                 4369/256000      17476/1024000  ( 1.7%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights         19/8192         1900/819200   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             82/32768         820/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1251/65536        2502/131072   ( 1.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1329004/0        ( 0.0%) 
+HDR lightdata         [variable]     1329004/0        ( 0.0%) 
+visdata               [variable]       33306/16777216 ( 0.2%) 
+entdata               [variable]        6122/393216   ( 1.6%) 
+LDR ambient table      722/65536        2888/262144   ( 1.1%) 
+HDR ambient table      722/65536        2888/262144   ( 1.1%) 
+LDR leaf ambient      3202/65536       89656/1835008  ( 4.9%) 
+HDR leaf ambient      3202/65536       89656/1835008  ( 4.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149105/0        ( 0.0%) 
+physics               [variable]       50945/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3338
+Writing e:\github\de_mall\ac_de_shop.bsp
+15 seconds elapsed
+
+
+
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_butterfly/knife_butterfly.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_bayonet/knife_bayonet.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_ct/knife_ct.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_flip/knife_flip.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_gut/knife_gut.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_karam/karam.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_m9_bay/knife_m9_bay.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_t/knife_t.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_tactical/knife_tactical.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_m249para/m249.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/mach_negev/mach_negev.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_223/pist_223.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_cz_75/pist_cz_75.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_deagle/pist_deagle.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_elite/m9a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_fiveseven/fiveseven.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_glock18/pist_glock18.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_hkp2000/pist_hkp2000.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_p250/p250.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_tec9/pist_tec9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_ak47/ak47.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_aug/rif_aug.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_famas/rif_famas.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_galilar/rif_galilar.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1/rif_m4a1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_m4a1_s/rif_m4a1_s.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/rif_sg556/rif_sg556.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_mag7/shot_mag7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_nova/shot_nova.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_sawedoff/shot_sawedoff_01.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/shot_xm1014/shot_xm1014.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_bizon/bizon.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mac10/smg_mac10_1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp7/smg_mp7.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_mp9/smg_mp9.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_p90/smg_p90.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/smg_ump45/smg_ump45.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_awp/awp.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_g3sg1/snip_g3sg1.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_scar20/snip_scar20.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/snip_ssg08/snip_ssg08_scope.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/pist_revolver/pist_revolver.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_push/knife_push.vmt.
+CustomMaterialManager: Cached KeyValues materials/models/weapons/v_models/knife_survival_bowie/knife_survival_bowie.vmt.
+materialPath: D:\Games\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\GitHub\de_mall\ac_de_shop.vmf
+Map revision 26
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\GitHub\de_mall\ac_de_shop.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (51582 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 418 texinfos to 297
+Reduced 14 texdatas to 12 (322 bytes to 238)
+Writing E:\GitHub\de_mall\ac_de_shop.bsp
+0 seconds elapsed
+
+
+
+8 threads
+reading e:\github\de_mall\ac_de_shop.bsp
+reading e:\github\de_mall\ac_de_shop.prt
+ 374 portalclusters
+1131 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 343 visible clusters (0.00%)
+Total clusters visible: 77968
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 356
+visdatasize:36264  compressed from 35904
+writing e:\github\de_mall\ac_de_shop.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1331 faces
+366334 square feet [52752116.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1331 patches before subdivision
+28653 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2912252, max 587
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(97862, 50493, 26723)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25017, 5919, 1790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8439, 1036, 396)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3339, 324, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1454, 149, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(674, 82, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(326, 47, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(162, 28, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(83, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(43, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(23, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(12, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(7, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0064 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1015/65536        8120/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1712/65536       20544/786432   ( 2.6%) 
+nodes                  754/65536       24128/2097152  ( 1.2%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1331/65536       74536/3670016  ( 2.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              549/65536       30744/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1331/0            5324/0        ( 0.0%) 
+leaves                 758/65536       24256/2097152  ( 1.2%) 
+leaffaces             1525/65536        3050/131072   ( 2.3%) 
+leafbrushes            419/65536         838/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8457/512000      33828/2048000  ( 1.7%) 
+edges                 4585/256000      18340/1024000  ( 1.8%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1428/65536        2856/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1336320/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6222/393216   ( 1.6%) 
+LDR ambient table      758/65536        3032/262144   ( 1.2%) 
+HDR ambient table      758/65536        3032/262144   ( 1.2%) 
+LDR leaf ambient      3331/65536       93268/1835008  ( 5.1%) 
+HDR leaf ambient       758/65536       21224/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149388/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3605
+Writing e:\github\de_mall\ac_de_shop.bsp
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading e:\github\de_mall\ac_de_shop.bsp
+1331 faces
+366334 square feet [52752116.00 square inches]
+1 Displacements
+300 Square Feet [43264.00 Square Inches]
+1331 patches before subdivision
+28653 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2912252, max 587
+transfer lists:  22.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(97862, 50493, 26722)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25017, 5919, 1790)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8439, 1036, 396)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3339, 324, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1454, 149, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(674, 82, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(326, 47, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(162, 28, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(83, 16, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(43, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(23, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(12, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(7, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0087 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                139/8192         1668/98304    ( 1.7%) 
+brushsides            1015/65536        8120/524288   ( 1.5%) 
+planes                 836/65536       16720/1310720  ( 1.3%) 
+vertexes              1712/65536       20544/786432   ( 2.6%) 
+nodes                  754/65536       24128/2097152  ( 1.2%) 
+texinfos               297/12288       21384/884736   ( 2.4%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts              25/0             500/0        ( 0.0%) 
+disp_tris               32/0              64/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples         900/0             900/0        ( 0.0%) 
+faces                 1331/65536       74536/3670016  ( 2.0%) 
+hdr faces             1331/65536       74536/3670016  ( 2.0%) 
+origfaces              549/65536       30744/3670016  ( 0.8%) 
+facebrushes              8/0              16/0        ( 0.0%) 
+facebrushlists        1331/0            5324/0        ( 0.0%) 
+leaves                 758/65536       24256/2097152  ( 1.2%) 
+leaffaces             1525/65536        3050/131072   ( 2.3%) 
+leafbrushes            419/65536         838/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             8457/512000      33828/2048000  ( 1.7%) 
+edges                 4585/256000      18340/1024000  ( 1.8%) 
+LDR worldlights         19/8192         1900/819200   ( 0.2%) 
+HDR worldlights         19/8192         1900/819200   ( 0.2%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             94/32768         940/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1428/65536        2856/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1336320/0        ( 0.0%) 
+HDR lightdata         [variable]     1336320/0        ( 0.0%) 
+visdata               [variable]       36264/16777216 ( 0.2%) 
+entdata               [variable]        6222/393216   ( 1.6%) 
+LDR ambient table      758/65536        3032/262144   ( 1.2%) 
+HDR ambient table      758/65536        3032/262144   ( 1.2%) 
+LDR leaf ambient      3331/65536       93268/1835008  ( 5.1%) 
+HDR leaf ambient      3331/65536       93268/1835008  ( 5.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1244     ( 0.1%) 
+pakfile               [variable]      149388/0        ( 0.0%) 
+physics               [variable]       51582/4194304  ( 1.2%) 
+physics terrain       [variable]         125/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3605
+Writing e:\github\de_mall\ac_de_shop.bsp
+14 seconds elapsed
