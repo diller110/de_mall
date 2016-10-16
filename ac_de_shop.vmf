@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7285"
-	"mapversion" "19"
+	"mapversion" "20"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "19"
+	"mapversion" "20"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -9255,150 +9255,6 @@ entity
 }
 entity
 {
-	"id" "4655"
-	"classname" "prop_static"
-	"angles" "-90 270 0"
-	"disableflashlight" "0"
-	"disableselfshadowing" "0"
-	"disableshadowdepth" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"drawinfastreflection" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/1models1/props_interiors/lightsconce02.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"shadowdepthnocache" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "344 -2704 -796"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12000]"
-	}
-}
-entity
-{
-	"id" "4712"
-	"classname" "prop_static"
-	"angles" "-90 270 0"
-	"disableflashlight" "0"
-	"disableselfshadowing" "0"
-	"disableshadowdepth" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"drawinfastreflection" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/1models1/props_interiors/lightsconce02.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"shadowdepthnocache" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "344 -2592 -796"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12000]"
-	}
-}
-entity
-{
-	"id" "4770"
-	"classname" "prop_static"
-	"angles" "-90 270 0"
-	"disableflashlight" "0"
-	"disableselfshadowing" "0"
-	"disableshadowdepth" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"drawinfastreflection" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/1models1/props_interiors/lightsconce02.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"shadowdepthnocache" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "568 -2592 -796"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12000]"
-	}
-}
-entity
-{
-	"id" "4774"
-	"classname" "prop_static"
-	"angles" "-90 270 0"
-	"disableflashlight" "0"
-	"disableselfshadowing" "0"
-	"disableshadowdepth" "0"
-	"disableshadows" "0"
-	"disablevertexlighting" "0"
-	"disableX360" "0"
-	"drawinfastreflection" "0"
-	"fademaxdist" "0"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"ignorenormals" "0"
-	"maxcpulevel" "0"
-	"maxgpulevel" "0"
-	"mincpulevel" "0"
-	"mingpulevel" "0"
-	"model" "models/1models1/props_interiors/lightsconce02.mdl"
-	"renderamt" "255"
-	"rendercolor" "255 255 255"
-	"screenspacefade" "0"
-	"shadowdepthnocache" "0"
-	"skin" "0"
-	"solid" "6"
-	"origin" "568 -2704 -796"
-	editor
-	{
-		"color" "255 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 12000]"
-	}
-}
-entity
-{
 	"id" "4778"
 	"classname" "light"
 	"_light" "157 182 208 60"
@@ -10659,8 +10515,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[679.025 -3304.57 -792.283]"
-		"look" "[585.197 -3249.94 -825.064]"
+		"position" "[1354.84 -3380.98 -617.394]"
+		"look" "[1270.6 -3305.64 -626.885]"
 	}
 }
 cordons
